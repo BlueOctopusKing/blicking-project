@@ -1,0 +1,85 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="KNA7#kSh7H{M4?h4hsi@" x="66" y="-316"><statement name="HANDLER"><block type="controls_repeat_ext" id="D7cH)mm^GJm+VGPnO65R"><value name="TIMES"><shadow type="math_whole_number" id="6^a_*!jzg~Ge^[,=aF#y"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="92o0e8:F$%dYVw+_U@M/"><field name="LEDS">`
+        # . # . # 
+        . # . # . 
+        . . . . . 
+        # . # . # 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="]Ih`*y%e`X31s(eU-WQ?"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        . . . . . 
+        . # . # . 
+        # . # . #
+        `</field></block></next></block></statement><next><block type="device_show_leds" id="1$AWnGV(cs5NQBjO0cA;"><field name="LEDS">`
+        # . # . # 
+        # # . # . 
+        # . . . . 
+        # . # . # 
+        # # . # .
+        `</field><next><block type="device_show_leds" id="g9rzHnaODJ;3STg.?hxx"><field name="LEDS">`
+        # # . # . 
+        # # # . # 
+        # # . . . 
+        # # . # . 
+        # # # . #
+        `</field><next><block type="device_show_leds" id="[5%m8hYc+dJDi;kPdhzs"><field name="LEDS">`
+        # # # . # 
+        # # # # . 
+        # # # . . 
+        # # # . # 
+        # # # # .
+        `</field><next><block type="device_show_leds" id="LmRO/XNcCscU$#=+pkuC"><field name="LEDS">`
+        # # # # . 
+        # # # # # 
+        # # # # . 
+        # # # # . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="Pa7}]NU+zBBnA*Nz+7S9"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_print_message" id="3.tqtnjXoM`0P|%^ckCw"><value name="text"><shadow type="text" id=".dQG98.ohcC+v[a*9n8d"><field name="TEXT">DO YOUR HOMEWORK</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="izrky`PXBEms#Y%S}`#1" x="455" y="68"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="d;vwRmc7I/Ma~7eeWUNx"><value name="TIMES"><shadow type="math_whole_number" id=";X@u,3YsqLHwj](N+%{r"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="_Sl$%}KzE!3.2ek:v{gL"><field name="LEDS">`
+        # . # . # 
+        . # . # . 
+        . . . . . 
+        # . # . # 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="IKsFaXpdJDl?)f!?ZaU+"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        . . . . . 
+        . # . # . 
+        # . # . #
+        `</field></block></next></block></statement><next><block type="device_show_leds" id="Gh/OnTg`uiyRlIULsoJB"><field name="LEDS">`
+        # . # . # 
+        # # . # . 
+        # . . . . 
+        # . # . # 
+        # # . # .
+        `</field><next><block type="device_show_leds" id="|,v9mK.=pTSZ?Yu}$:,H"><field name="LEDS">`
+        # # . # . 
+        # # # . # 
+        # # . . . 
+        # # . # . 
+        # # # . #
+        `</field><next><block type="device_show_leds" id="f`@W54%.~GJc-4BxIxe8"><field name="LEDS">`
+        # # # . # 
+        # # # # . 
+        # # # . . 
+        # # # . # 
+        # # # # .
+        `</field><next><block type="device_show_leds" id="J-6L*#j*7f.w%VsW|eh."><field name="LEDS">`
+        # # # # . 
+        # # # # # 
+        # # # # . 
+        # # # # . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="Z28U;{xAp;dk*VpRQ1WL"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_print_message" id="94dUc.j18$$#bqp!t3a."><value name="text"><shadow type="text" id="UX-GOgM|_o,uo`g+sJyY"><field name="TEXT">DO YOUR HOMEWORK</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
